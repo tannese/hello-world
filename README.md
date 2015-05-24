@@ -1,2 +1,6 @@
 # hello-world
 My Hello-World Project
+
+A Little About Myself...
+I just spent 30 minutes listening to the Roxanne Wars songs..
+Roxanne, Roxanne; Roxanne's Revenge; etc...
